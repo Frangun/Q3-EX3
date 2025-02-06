@@ -1,0 +1,26 @@
+body {
+	background-image: url(sg.jpg);
+	font-family: georgia;
+	background-size: cover;
+}
+
+.form {
+	padding: 25px;
+	text-align: center;
+	background-color: #D5E1A3;
+	padding: 25px;
+	border-radius: 8px;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+.header {
+	text-align: center;
+	background-color: #D5E1A3;
+	padding: 25px;
+	border-radius: 8px;
+	margin-left: 20%;
+	margin-right: 20%;
+
+}
+
